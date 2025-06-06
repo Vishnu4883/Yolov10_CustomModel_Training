@@ -1,0 +1,9 @@
+# Dataset Path
+path: /content/drive/MyDrive/Yolov10-Trainig-CustomModel/data/road_sign_splidataset
+
+train: images/train # relative to path
+val: images/val # relative to path
+test: images/test # relative to path
+
+# Class Names
+names: [Speedlimit, Stop, Crosswalk, Trafficlight]
